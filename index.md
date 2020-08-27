@@ -17,7 +17,7 @@ To obtain the final hood design I conducted an iterative process.
 
 Since all the heaviest systems are located in the front of the car some weight need to be added to the back of the vehicle. In order to know how muchweight was needed I conduct a FEM analysis simulating the overall mass of the car and applying forces in the bottom part.
 
-<img width="808" alt="esarco3" src="https://user-images.githubusercontent.com/70322978/91448403-bb53c800-e871-11ea-926b-fdb12112eb6a.png">
+![Annotation 2020-08-27 145142](https://user-images.githubusercontent.com/70322978/91451057-eb509a80-e874-11ea-9f6a-c253d556bbcc.jpg)
 
 ![esarco design](https://user-images.githubusercontent.com/70322978/91448906-64022780-e872-11ea-93f5-a9b715f17a0e.jpg)
 
