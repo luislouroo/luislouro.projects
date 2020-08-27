@@ -1,12 +1,19 @@
 ## Military Vehicle Restoration (Esarco 6x6)
 
-You can use the [editor on GitHub](https://github.com/luislouroo/luislouro.projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Mechanical Treatment
+The The Chassie was sandbasted and the most corrupted iron plates were replaced.
+The engine was working perfectly, just needed to be clean. The eletrical systems was renovated, and the majority of the main systems needed maintnance and cleaning.vehicle was in rust condition presenting fails in all main systems. The top structure was previuosly adapted. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Acquired skills** 
+- Mechanical systems related to cars
+- Time management and organization duo to the complexity and number of components
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Design and Analysis
+
+To obtain the final hood design I conducted an iterative process.
+Since all the heaviest systems are located in the front of the car some weight need to be added to the back of the vehicle. In order to know how muchweight was needed I conduct a FEM analysis simulating the overall mass of the car and applying forces in the bottom part.
 
 ```markdown
 Syntax highlighted code block
