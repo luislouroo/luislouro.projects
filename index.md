@@ -1,7 +1,7 @@
 ## Military Vehicle Restoration (Esarco 6x6)
 
 ### Mechanical Treatment
-The The Chassie was sandbasted and the most corrupted iron plates were replaced.
+The Chassie was sandbasted and the most corrupted iron plates were replaced.
 The engine was working perfectly, just needed to be clean. The eletrical systems was renovated, and the majority of the main systems needed maintnance and cleaning.vehicle was in rust condition presenting fails in all main systems. The top structure was previuosly adapted. 
 
 **Acquired skills** 
