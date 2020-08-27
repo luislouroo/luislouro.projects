@@ -7,7 +7,9 @@ Designed the different parts in Solidworks and manufactured them in a CNC Plasma
 Stability test were made in order to obtain the right length to the supports.
 ![Annotation 2020-08-27 155642](https://user-images.githubusercontent.com/70322978/91458948-01af2400-e87e-11ea-8579-3e2f2824e646.jpg)
 
-Welding the different parts was a painfuljob because the components tended to lose the alignment duo to the expansion suffered.
+Welding the different parts was a painful job because the components tended to lose the alignment duo to the expansion suffered.
+
+![Annotation 2020-08-27 161216](https://user-images.githubusercontent.com/70322978/91460760-1b516b00-e880-11ea-94ea-6bd878deed5d.jpg)
 
 **Acquired skills** 
 - Welding capabilities
