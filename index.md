@@ -8,7 +8,8 @@ The engine was working perfectly, just needed to be clean. The eletrical systems
 - Mechanical systems related to cars
 - Time management and organization duo to the complexity and number of components
 
-
+<img width="929" alt="1" src="https://user-images.githubusercontent.com/70322978/91446853-e2a99580-e86f-11ea-985a-9dd114e3a6cc.png">
+<img width="948" alt="esarco2" src="https://user-images.githubusercontent.com/70322978/91447950-2c46b000-e871-11ea-81b9-90843e7987fc.png">
 
 ### Design and Analysis
 
