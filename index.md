@@ -1,4 +1,4 @@
-My name is Luis Louro and i'm currently starting my 5th and last year in mechanical engineering. I allways loved mechanics and the magic behind mechanical systems. During the last years I started developing some projects related to mechanical engineering in my free time. This website is ment to show you the results and knowledge acquired.
+My name is Luis Louro and i'm currently starting my 5th and last year in mechanical engineering. I always loved mechanics and the magic behind mechanical systems. During the last years I started developing some projects related to mechanical engineering in my free time. This website is ment to show you the results and knowledge acquired.
 Click in the links bellow to view the projects:
 - [Esarco](https://luislouroo.github.io/esarco)
 ![42362269_2359223604304895_865702850951380992_n](https://user-images.githubusercontent.com/70322978/91449586-310c6380-e873-11ea-9348-68386c86c494.jpg)
