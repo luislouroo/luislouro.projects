@@ -17,5 +17,5 @@ Welding the different parts was a painful job because the components tended to l
 - Systems Design
 - CNC Programming
 - CAD
-- Time management and organization duo to the complexity and number of components
+- Time management and organization due to the complexity and number of components
 
